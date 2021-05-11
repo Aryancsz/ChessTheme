@@ -14,7 +14,7 @@ h3 {
   letter-spacing: -2px;
   text-transform: uppercase;
   color: white;
-  text-shadow: 2px 2px 4px #000000;
+  text-shadow: 0.2vh 0.2vh 0.4vh #000000;
   text-align: center;
 }
 .item {
