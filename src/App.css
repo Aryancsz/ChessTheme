@@ -35,9 +35,11 @@ h3 {
 }
 
 .fa-chess-knight {
+  font-size: 6vh;
   color: #0057f8;
 }
 .fa-chess-bishop {
+  font-size: 6vh;
   color: #0057f8;
 }
 .messagebox {
@@ -52,7 +54,7 @@ h3 {
   text-shadow: 2px 2px 7px rgb(117, 117, 117);
 }
 .icon {
-  font-size: 10px;
+  font-size: 5vh;
   color: #00f821;
   text-shadow: 1px 2px 4px #2bff18;
   padding: 2px;
